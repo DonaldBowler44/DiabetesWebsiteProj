@@ -1,0 +1,12 @@
+.lfApp{
+    background-color: red;
+    border: 5px solid blue;
+    padding: 10px;
+     float: left; 
+    left: 30px;
+    /* transform: scale(2, 3); */
+    /* width: 60%;
+    height: 50%; */
+    max-height: 150px;
+
+}
